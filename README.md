@@ -73,3 +73,4 @@ VerifAI combats misinformation by providing instant, automated fact-checking dir
 
 *Note: This project was developed as part of TechFest 2025 and is intended for experimental and demonstration purposes. While VerifAI provides real-time verification, it should not be considered a definitive authority on misinformation. Further development and testing are needed before deployment in production environments.*
 ```
+# DiddyEye

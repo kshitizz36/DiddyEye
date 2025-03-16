@@ -56,7 +56,7 @@ DiddyEye combats misinformation by providing instant, automated fact-checking di
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/FakeInfoDetector.git
+   git clone https://github.com/kshitizz36/DiddyEye.git
    ```
 
 2. **Install Dependencies:**

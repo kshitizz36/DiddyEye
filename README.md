@@ -7,7 +7,7 @@ DiddyEye is an AI-driven Telegram bot desgined to combat misinfomration in priva
 False information influences public opinion and decisions. How can we detect and prevent
 its spread?
 
-## **Solution**: VerifAI 
+## **Solution**: DiddyEye Bot 
 DiddyEye combats misinformation by providing instant, automated fact-checking directly within Telegram. By combining advanced text analysis with AI-driven image detection, DiddyEye independently verifies the credibility of text-based claims and detects AI-generated images, ensuring users can separate fact from fiction in real time.
 
 - **Model 1: Claim Verification**  
